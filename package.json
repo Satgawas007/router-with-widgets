@@ -2,7 +2,7 @@
   "name": "router-with-widgets",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://satgawas007.github.io",
+  "homepage": "https://Satgawas007.github.io/router-with-widget",
   "dependencies": {
     "chart.js": "^2.8.0",
     "classnames": "^2.2.6",
