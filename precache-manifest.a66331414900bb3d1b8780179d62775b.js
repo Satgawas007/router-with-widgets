@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/router-with-widgets/static/css/2.3c2feb7e.chunk.css"
   },
   {
-    "revision": "ee4c144fcb214a78d1bada7c08f83da1",
+    "revision": "ddc096450c126dabe70442d77ae3aca4",
     "url": "/router-with-widgets/index.html"
   }
 ];
