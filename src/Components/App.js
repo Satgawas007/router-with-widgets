@@ -6,7 +6,7 @@ import { HomeView,  MapsView, RteView, ChartsView } from './Views'
 
 const Sep = () => <span> | </span>;
 
-const App = () => (     
+const App = () => (
   <div>
     <div>
       <Link to="/">Home</Link> <Sep />
